@@ -2,7 +2,7 @@ package edu.handong.csee.java.inheritance;
 
 public class Animal {
 	
-	String name = "Animal10";
+	String name = "Animal100";
 	
 	
     public static void testClassMethod() {
